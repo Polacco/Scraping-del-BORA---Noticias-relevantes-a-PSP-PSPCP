@@ -6,4 +6,4 @@ Para ejecutar en fecha especifica: python bora_monitor.py --fecha 00/00/0000
 
 Para ejecutar sin utilizar análisis de IA: python bora_monitor.py --sin-ia
 
-Saludos!
+Saludos! :)
